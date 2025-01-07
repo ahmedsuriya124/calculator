@@ -1,3 +1,5 @@
+![calculator-interface](https://github.com/user-attachments/assets/55bc96f0-e519-4555-b8e7-0c51ab4c275f)
+
 # calculator
 A simple and responsive Calculator built using HTML, CSS, and JavaScript. This project demonstrates basic arithmetic operations with a sleek and user-friendly interface.
 
