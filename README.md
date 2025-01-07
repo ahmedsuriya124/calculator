@@ -1,6 +1,7 @@
-![calculator-interface](https://github.com/user-attachments/assets/55bc96f0-e519-4555-b8e7-0c51ab4c275f)
-
 # calculator
+
+URL: https://calc-now.netlify.app/
+
 A simple and responsive Calculator built using HTML, CSS, and JavaScript. This project demonstrates basic arithmetic operations with a sleek and user-friendly interface.
 
 Features:
@@ -19,9 +20,13 @@ Clone or download the repository.
 Open the index.html file in your browser.
 Start calculating!
 
+
 Future Enhancements:
 Add support for advanced mathematical operations (e.g., square root, trigonometric functions, etc.).
 Include a history feature to track past calculations.
 Implement a dark mode for improved accessibility.
 
 Feel free to contribute or share your feedback!
+
+
+![calculator-interface](https://github.com/user-attachments/assets/55bc96f0-e519-4555-b8e7-0c51ab4c275f)
